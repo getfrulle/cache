@@ -6,3 +6,8 @@ echo option('cache')->getOrSet('myfile', function() {
   return 'cached data';
 });
 ```
+
+## Dependencies
+
+- Options plugin
+- Path plugin
